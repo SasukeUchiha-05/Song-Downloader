@@ -28,3 +28,16 @@ pip install -r requirements.txt
 ```sh
 python yt_downloader.py
 ```
+⚠️ Disclaimer
+This script is for educational purposes only. Downloading copyrighted content without permission may violate YouTube’s terms of service. Please ensure you have the right to download any content.
+
+📝 License
+This project is licensed under the MIT License.
+
+
+---
+
+### 📜 **requirements.txt**
+```txt
+yt-dlp
+
